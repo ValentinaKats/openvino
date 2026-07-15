@@ -110,91 +110,7 @@ APPENDIX: How to apply the Apache License to your work.
    limitations under the License.
    
 -------------------------------------------------------------
-2. intel/caffe 
-
-   All modification made by Intel Corporation: © 2017 Intel Corporation.
-
-   All new contributions compared to the original branch:
-   Copyright (c) 2015, 2016 Wei Liu (UNC Chapel Hill), Dragomir Anguelov (Zoox),
-   Dumitru Erhan (Google), Christian Szegedy (Google), Scott Reed (UMich Ann Arbor),
-   Cheng-Yang Fu (UNC Chapel Hill), Alexander C. Berg (UNC Chapel Hill).
-   All rights reserved.
-
-   All contributions by the University of California:
-   Copyright (c) 2014, 2015, The Regents of the University of California (Regents)
-   All rights reserved.
-
-   All other contributions:
-   Copyright (c) 2014, 2015, the respective contributors
-   All rights reserved.
-
-Caffe uses a shared copyright model: each contributor holds copyright over
-their contributions to Caffe. The project versioning records all such
-contribution and copyright details. If a contributor wants to further mark
-their specific copyright on a particular contribution, they should indicate
-their copyright solely in the commit message of the change when it is
-committed.
-
-LICENSE
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met: 
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer. 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution. 
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
-ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
-ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-CONTRIBUTION AGREEMENT
-
-By contributing to the BVLC/caffe repository through pull-request, comment,
-or otherwise, the contributor releases their content to the
-license and copyright terms herein.
-
--------------------------------------------------------------
-3. gflags
-   Copyright (c) 2006, Google Inc.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-    * Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above
-copyright notice, this list of conditions and the following disclaimer
-in the documentation and/or other materials provided with the
-distribution.
-    * Neither the name of Google Inc. nor the names of its
-contributors may be used to endorse or promote products derived from
-this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
--------------------------------------------------------------
-4. Intel(R) Instrumentation and Tracing Technology (ITT) and Just-In-Time (JIT) API
+2. Intel(R) Instrumentation and Tracing Technology (ITT) and Just-In-Time (JIT) API
    Copyright (c) 2019 Intel Corporation. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -205,7 +121,7 @@ Redistribution and use in source and binary forms, with or without modification,
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 -------------------------------------------------------------
-5. Intel Open Source Technology Center Safe String Library
+3. Intel Open Source Technology Center Safe String Library
    Copyright (c) 2014-2018 Intel Corporation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -253,7 +169,7 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 -------------------------------------------------------------
-6. pugixml
+4. pugixml
    Copyright (c) 2006-2019 Arseny Kapoulkine
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -275,7 +191,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 -------------------------------------------------------------
-7. rapidjson
+5. rapidjson
    Copyright (C) 2015 THL A29 Limited, a Tencent company, and Milo Yip.  All rights reserved.
 
 If you have downloaded a copy of the RapidJSON binary from Tencent, please note that the RapidJSON binary is licensed under the MIT License.
@@ -330,8 +246,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 -------------------------------------------------------------
-
-8. XByak (src/cpu/xbyak/)
+6. XByak (src/cpu/xbyak/)
 Copyright (c) 2007 MITSUNARI Shigeo
 All rights reserved.
 
@@ -383,8 +298,7 @@ THE POSSIBILITY OF SUCH DAMAGE.
 一切責任を負わないものとします。
 
 -------------------------------------------------------------
-
-9. Deformable Convolutional Networks
+7. Deformable Convolutional Networks
 
 Copyright (c) 2017 Microsoft
 
@@ -407,8 +321,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 -------------------------------------------------------------
-
-10. rogersce/cnpy (https://github.com/rogersce/cnpy/)
+8. rogersce/cnpy (https://github.com/rogersce/cnpy/)
    Copyright (c) Carl Rogers, 2011
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -430,8 +343,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 -------------------------------------------------------------
-
-11. ZLIB DATA COMPRESSION LIBRARY
+9. ZLIB DATA COMPRESSION LIBRARY
   Copyright (C) 1995-2017 Jean-loup Gailly and Mark Adler
 
   This software is provided 'as-is', without any express or implied
@@ -451,8 +363,7 @@ SOFTWARE.
   3. This notice may not be removed or altered from any source distribution.
 
 -------------------------------------------------------------
-
-12. ONNX ONNX (https://github.com/onnx/onnx)
+10. ONNX ONNX (https://github.com/onnx/onnx)
 
                                  Apache License
                            Version 2.0, January 2004
@@ -658,8 +569,7 @@ SOFTWARE.
 
 
 -------------------------------------------------------------
-
-13. PaddlePaddle (https://github.com/PaddlePaddle/Paddle)
+11. PaddlePaddle (https://github.com/PaddlePaddle/Paddle)
     Copyright (c) 2016 PaddlePaddle Authors.
 
                                  Apache License
@@ -865,8 +775,7 @@ SOFTWARE.
    limitations under the License.
    
 -------------------------------------------------------------
-
-14. TensorFlow (https://github.com/tensorflow/tensorflow/)
+12. TensorFlow (https://github.com/tensorflow/tensorflow/)
 
 Abadi, M.,
 Agarwal, A., 
@@ -1246,8 +1155,7 @@ or otherwise, the contributor releases their content to the
 license and copyright terms herein.
 
 -------------------------------------------------------------
-
-16. JSON for Modern C++ (https://github.com/nlohmann/json)
+13. JSON for Modern C++ (https://github.com/nlohmann/json)
 
 Copyright (c) 2013-2022 Niels Lohmann
 
@@ -1270,8 +1178,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 -------------------------------------------------------------
-
-17. JSON schema validator for JSON for Modern C++ (https://github.com/pboettch/json-schema-validator)
+14. JSON schema validator for JSON for Modern C++ (https://github.com/pboettch/json-schema-validator)
 
 Copyright (c) 2016 Patrick Boettcher
 
@@ -1294,8 +1201,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 -------------------------------------------------------------
-
-18. Faster R-CNN and Mask R-CNN in PyTorch 1.0 (https://github.com/facebookresearch/maskrcnn-benchmark)
+15. Faster R-CNN and Mask R-CNN in PyTorch 1.0 (https://github.com/facebookresearch/maskrcnn-benchmark)
 
 Copyright (c) 2018 Facebook
 
@@ -1316,68 +1222,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 -------------------------------------------------------------
-19. Caffe (https://github.com/BVLC/caffe/)
-
-All contributions by the University of California:
-Copyright (c) 2014-2017 The Regents of the University of California (Regents)
-All rights reserved.
-
-All other contributions:
-Copyright (c) 2014-2017, the respective contributors
-All rights reserved.
-
-Caffe uses a shared copyright model: each contributor holds copyright over
-their contributions to Caffe. The project versioning records all such
-contribution and copyright details. If a contributor wants to further mark
-their specific copyright on a particular contribution, they should indicate
-their copyright solely in the commit message of the change when it is
-committed.
-
-LICENSE
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met: 
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer. 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution. 
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
-ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
-ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-CONTRIBUTION AGREEMENT
-
-By contributing to the BVLC/caffe repository through pull-request, comment,
-or otherwise, the contributor releases their content to the
-license and copyright terms herein.
-
--------------------------------------------------------------
-
-The following third party programs have their own third party program files. These additional third party program files are as follows:
-
-oneAPI Deep Neural Network Library (oneDNN) Third Party Programs File is available here <install_root>/licencing/deployment_tools/onednn_third-party-programs.txt
-Intel(R) Threading Building Blocks Third Party Programs File is available here <install_root>/licencing/deployment_tools/onetbb_third-party-programs.txt
-
--------------------------------------------------------------
-
-*Other names and brands may be claimed as the property of others. 
-
-OpenCL and the OpenCL logo are trademarks of Apple Inc. used by permission by Khronos.
-
--------------------------------------------------------------
-20. Compute Library (https://github.com/ARM-software/ComputeLibrary)
+16. Compute Library (https://github.com/ARM-software/ComputeLibrary)
 
 Copyright (c) 2017-2023 Arm Limited
 
@@ -1400,8 +1246,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 -------------------------------------------------------------
-
-21. CMake(http://tracker.debian.org/pkg/cmake)
+17. CMake(http://tracker.debian.org/pkg/cmake)
 
 CMake - Cross Platform Makefile Generator
 Copyright 2000-2023 Kitware, Inc. and Contributors
@@ -1435,7 +1280,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 -------------------------------------------------------------
-22.flatbuffers(https://github.com/google/flatbuffers), OpenCV(https://github.com/opencv/opencv/)
+18. flatbuffers(https://github.com/google/flatbuffers), OpenCV(https://github.com/opencv/opencv/)
 
  Apache License
                            Version 2.0, January 2004
@@ -1615,7 +1460,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
    END OF TERMS AND CONDITIONS
 
 -------------------------------------------------------------
-23.Intel level-zero (https://github.com/oneapi-src/level-zero)
+19. Intel level-zero (https://github.com/oneapi-src/level-zero)
 
 MIT License
 
@@ -1640,8 +1485,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 -------------------------------------------------------------
-
-24. Microsoft onnxruntime (https://github.com/microsoft/onnxruntime)
+20. Microsoft onnxruntime (https://github.com/microsoft/onnxruntime)
 
 MIT License
 
@@ -1666,7 +1510,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 -------------------------------------------------------------
-25. libxsmm(https://github.com/libxsmm/libxsmm)
+21. libxsmm(https://github.com/libxsmm/libxsmm)
 
 Copyright (c) 2009-2023, Intel Corporation
 Copyright (c) 2017-2022, Friedrich Schiller University Jena Copyright (c) 2012-2021, Technische Universitaet Muenchen
@@ -1684,7 +1528,7 @@ Neither the name of the copyright holder nor the names of its contributors may b
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 -------------------------------------------------------------
-26. compute-runtime(https://github.com/intel/compute-runtime)
+22. compute-runtime(https://github.com/intel/compute-runtime)
 
 MIT License
 
